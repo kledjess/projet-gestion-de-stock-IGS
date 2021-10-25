@@ -1,0 +1,12 @@
+.image{
+    background: url("images/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding-bottom: 5px;
+}
+input{
+    border:1px solid black;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
